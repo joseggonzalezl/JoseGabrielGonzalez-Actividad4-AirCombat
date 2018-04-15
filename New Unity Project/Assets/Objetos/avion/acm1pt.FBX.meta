@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: dd289732bc2144aed888df77f24fe4c7
+timeCreated: 1523638030
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: aileron_l
+    100004: aileron_pos
+    100006: aileron_r
+    100008: chassis
+    100010: door_lf_dummy
+    100012: door_lf_ok
+    100014: elevator_r
+    100016: engine
+    100018: exhaust
+    100020: gear_l
+    100022: gear_r
+    100024: miscpos_a
+    100026: Omni01
+    100028: Omni02
+    100030: Omni03
+    100032: ped_frontseat
+    100034: rudder
+    100036: static_prop
+    100038: wheel
+    100040: wheel_lb_dummy
+    100042: wheel_lf_dummy
+    100044: wheel_rb_dummy
+    100046: wheel_rf_dummy
+    100048: wingtip_pos
+    400000: //RootNode
+    400002: aileron_l
+    400004: aileron_pos
+    400006: aileron_r
+    400008: chassis
+    400010: door_lf_dummy
+    400012: door_lf_ok
+    400014: elevator_r
+    400016: engine
+    400018: exhaust
+    400020: gear_l
+    400022: gear_r
+    400024: miscpos_a
+    400026: Omni01
+    400028: Omni02
+    400030: Omni03
+    400032: ped_frontseat
+    400034: rudder
+    400036: static_prop
+    400038: wheel
+    400040: wheel_lb_dummy
+    400042: wheel_lf_dummy
+    400044: wheel_rb_dummy
+    400046: wheel_rf_dummy
+    400048: wingtip_pos
+    2100000: GTA_Mtl
+    2300000: aileron_l
+    2300002: aileron_r
+    2300004: chassis
+    2300006: door_lf_ok
+    2300008: elevator_r
+    2300010: gear_l
+    2300012: gear_r
+    2300014: rudder
+    2300016: static_prop
+    2300018: wheel
+    3300000: aileron_l
+    3300002: aileron_r
+    3300004: chassis
+    3300006: door_lf_ok
+    3300008: elevator_r
+    3300010: gear_l
+    3300012: gear_r
+    3300014: rudder
+    3300016: static_prop
+    3300018: wheel
+    4300000: chassis
+    4300002: static_prop
+    4300004: gear_l
+    4300006: aileron_l
+    4300008: rudder
+    4300010: aileron_r
+    4300012: gear_r
+    4300014: wheel
+    4300016: elevator_r
+    4300018: door_lf_ok
+    10800000: Omni01
+    10800002: Omni02
+    10800004: Omni03
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
